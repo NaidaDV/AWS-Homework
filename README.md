@@ -32,7 +32,7 @@ There are 3 folders: subnets, instances and loadbalancer. They are one terraform
 
 ![](screenshots/scr6.png)
 
-**Nginx gefault webpage on loadbalance's DNS
+**Nginx gefault webpage on loadbalance's DNS:**
 
 ![](screenshots/scr7.png)
 
